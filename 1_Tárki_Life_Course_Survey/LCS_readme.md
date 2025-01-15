@@ -1,0 +1,1 @@
+This folder contains the necessary tools to replicate tables 4 and 8 of the paper using the Tárki Life Course Survey dataset. The Analysis folder contains distinct Stata codes for both output tables.![image](https://github.com/user-attachments/assets/cb3ccb44-3f25-4cf6-b7c4-0ff6a6613403)
